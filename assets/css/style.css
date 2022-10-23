@@ -47,3 +47,20 @@ li:hover ul {
 li:hover li {
     font-size: 11px;
 }
+
+/* Квадраты для сортировки*/
+.small {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(49, 82, 97);
+}
+.medium {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(23, 38, 45);
+}
+.big {
+    width: 300px;
+    height: 300px;
+    background-color: rgb(112, 185, 219);
+}

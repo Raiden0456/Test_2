@@ -36,6 +36,12 @@
         </li>
     </ul> 
 
+    <div class="parent">
+        <div class="class small">small</div>
+        <div class="class medium">medium</div>
+        <div class="class big">big</div>
+    </div>
+
     <script type="text/javascript" src="index.js"></script>
     
 </body>
