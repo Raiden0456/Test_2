@@ -13,14 +13,15 @@ body {
     width: auto;
     height: auto;
     position: absolute;
-    top: 0;
-    bottom: 0;
+    margin: auto;
     left: 0;
     right: 0;
-    margin: auto;
+    top: 0;
+    bottom: 0;
+    
 }
 
 .horizontal_list li{
     display: inline-block;
-    margin: 10px;
+    margin: 25px;
 }
