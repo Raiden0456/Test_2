@@ -42,6 +42,10 @@
         <div class="class big">big</div>
     </div>
 
+    <div data-noprint>
+        <p style="background-color: #00ff00;">Some text</p>
+    </div>
+
     <script type="text/javascript" src="index.js"></script>
     
 </body>
