@@ -7,8 +7,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Test</title>
 </head>
-<body>
-    <div class = "frame">
+<script src="https://code.jquery.com/jquery-3.6.1.min.js"></script>
+<body data-id = "7">
+    <div data-id = "5" class = "frame">
         <img class = "image" src = "/assets/images/NicePng_instagram-circle-logo-png_475136.png"> 
     </div>
     <ul class = "horizontal_list">
@@ -34,6 +35,8 @@
             </ul>
         </li>
     </ul> 
+
+    <script type="text/javascript" src="index.js"></script>
     
 </body>
 </html>
