@@ -1,14 +1,26 @@
+body {
+    text-align: center;
+}
 .frame {
-    background-color: rgb(87, 41, 41);
+    background-color: rgb(49, 82, 97);
     height: 300px;
     width: 200px;
+    position: relative;
 }
 .image {
-    height: 50px;
-    width: 50px;
-    margin: 0;
-    position: relative;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    max-height: 100%;
+    max-width: 100%;
+    width: auto;
+    height: auto;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.horizontal_list li{
+    display: inline-block;
+    margin: 10px;
 }

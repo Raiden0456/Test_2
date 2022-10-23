@@ -11,5 +11,17 @@
     <div class = "frame">
         <img class = "image" src = "/assets/images/NicePng_instagram-circle-logo-png_475136.png"> 
     </div>
+    <ul class = "horizontal_list">
+        <li>
+            <a>Section_1</a>
+        </li>
+        <li>
+            <a>Section_2</a>
+        </li>
+        <li>
+            <a>Section_3</a>
+        </li>
+    </ul> 
+    
 </body>
 </html>
