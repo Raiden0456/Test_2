@@ -20,8 +20,30 @@ body {
     bottom: 0;
     
 }
-
-.horizontal_list li{
+/* Выпадающий список */
+ul {
     display: inline-block;
-    margin: 25px;
+    list-style: none;
+    padding: 0;
+}
+ul li {
+    display: block;
+    position: relative;
+    float: left;
+}
+ul li a {
+    display: block;
+    padding: 5px 15px 5px 15px;
+}
+
+li ul {
+    display: none;
+}
+
+li:hover ul {
+    display: block;
+    position: absolute;
+}
+li:hover li {
+    font-size: 11px;
 }

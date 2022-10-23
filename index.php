@@ -12,14 +12,26 @@
         <img class = "image" src = "/assets/images/NicePng_instagram-circle-logo-png_475136.png"> 
     </div>
     <ul class = "horizontal_list">
-        <li>
-            <a>Section_1</a>
+        <li><a href="#">Section_1</a>
+            <ul>
+                <li><a href="#">Subsection_1</a></li>
+                <li><a href="#">Subsection_2</a></li>
+                <li><a href="#">Subsection_3</a></li>
+            </ul>
         </li>
-        <li>
-            <a>Section_2</a>
+        <li><a href="#">Section_2</a>
+            <ul>
+                <li><a href="#">Subsection_1</a></li>
+                <li><a href="#">Subsection_2</a></li>
+                <li><a href="#">Subsection_3</a></li>
+            </ul>
         </li>
-        <li>
-            <a>Section_3</a>
+        <li><a href="#">Section_3</a>
+            <ul>
+                <li><a href="#">Subsection_1</a></li>
+                <li><a href="#">Subsection_2</a></li>
+                <li><a href="#">Subsection_3</a></li>
+            </ul>
         </li>
     </ul> 
     
