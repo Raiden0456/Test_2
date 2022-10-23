@@ -1,0 +1,14 @@
+.frame {
+    background-color: rgb(87, 41, 41);
+    height: 300px;
+    width: 200px;
+}
+.image {
+    height: 50px;
+    width: 50px;
+    margin: 0;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
